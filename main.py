@@ -1,1 +1,5 @@
-erhkaopjndfh;lakml;mbdfhl;mdhnfz
+<<<<<<< HEAD
+print('Hello World')
+=======
+print('Hello World')
+>>>>>>> 1
